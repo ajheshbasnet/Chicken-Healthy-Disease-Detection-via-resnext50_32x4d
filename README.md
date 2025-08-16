@@ -44,3 +44,11 @@ You can check the preprocessing & training notebook here:
    ```bash
    git clone https://github.com/yourusername/chicken-disease-detection.git
    cd chicken-disease-detection
+
+---
+## Output Format:
+   {
+  "Status": "Coccidiosis",
+  "Confidence Score": 93.47
+}
+
